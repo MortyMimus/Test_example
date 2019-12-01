@@ -5,7 +5,7 @@ class LoginPage {
     get pwdField() {return $('input[name="password"]')};
     get eyeIcon() {return $('span.icon.icon-eye')};
     get applyLoginBtn() {return $('button.primary')};
-    get loginNotification() {return $('span.noty_text')};
+    get loginNotification() {return $('div.noty_message')};
 
 };
 

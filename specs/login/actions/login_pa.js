@@ -30,6 +30,7 @@ class LoginActions {
 
     getNotyText() {
         login.loginNotification.waitForDisplayed(5000);
+        browser.pause(1000);
         return login.loginNotification.getText();
     };
 
