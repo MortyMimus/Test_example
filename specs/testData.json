@@ -1,0 +1,7 @@
+{
+    "appURl": "https://www.sbzend.ssls.com",
+    "registeredEmail": "ssls.automation+666@gmail.com",
+    "unregisteredEmail": "asdf@asdf.asdf",
+    "pwd": "123456",
+    "incorrectLoginMessage": "Uh oh! Email or password is incorrect"
+}
